@@ -23,7 +23,7 @@ Chrono is a Java class designed to create a timer with start, stop and display f
 
 ## Example of use :
 ```java
-Chrono chrono = new Chrono(1, 30, 0); // Crée un minuteur de 1 heure et 30 minutes
-chrono.initializeCurrTime(); // Initialise les valeurs du minuteur
-chrono.runTimer(); // Démarre le minuteur
+Chrono chrono = new Chrono(1, 30, 0); // Creates a 1 hour and 30 minute timer
+chrono.initializeCurrTime(); // Initializes timer values
+chrono.runTimer(); // Start the timer
 ```
